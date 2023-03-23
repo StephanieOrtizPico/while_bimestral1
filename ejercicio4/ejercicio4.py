@@ -10,6 +10,6 @@ print("Fin.")
 #Ejemplo 2
 
 x=0
-while x<1000:
+while x<10:
     print("WeyTc")
     x+=1
